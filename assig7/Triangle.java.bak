@@ -1,0 +1,16 @@
+class tringle 
+{
+	 static Double triangle() 
+	{
+		 int b = 5;
+		 int h = 8;
+		 
+		 Double result=0.5 * b * h;
+			 return area;
+	}
+	public static void main(String[] args)
+	{
+	      
+		//System.out.println(result); 
+	}
+}

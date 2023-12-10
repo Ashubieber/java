@@ -1,0 +1,26 @@
+class check 
+{
+	public static void main(String[] args) 
+	{
+		int number = 21;
+		if(number % 3 ==0 && number %7 ==0)
+		    {
+			  System.out.println("Fizz Buzz");
+		     }
+			 else if (number % 3==0)
+			 {
+				 System.out.println("Fizz Fizz");
+			 }
+			 else if(number % 7==0)
+		           {
+			          System.out.println("Bizz Buzz");
+		            }
+					  else
+		{
+			System.out.println("Invalid no");
+		}
+
+			
+		
+	}
+}

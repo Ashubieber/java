@@ -1,0 +1,15 @@
+class Circle1 
+{
+	 static void area() 
+	{
+		 final Double pi=3.142;
+		 int r=5;
+		 Double res=pi * r * r;
+		return (res);
+	}
+	public static void main(String[] args)
+	{
+		Double y= area();
+		System.out.println(y); 
+	}
+}

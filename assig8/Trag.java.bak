@@ -1,0 +1,18 @@
+class Trag 
+{
+     static Double triangle() 
+	{
+		 int b = 5;
+		 int h = 9;
+		 Double area = 0.5 * b * h;		
+	}
+}
+      class tro
+      {
+		  public static void main(String[] args)
+      
+		  {
+			Trag.triangle();
+		 
+			}
+	  }

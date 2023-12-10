@@ -1,0 +1,10 @@
+class circle 
+{
+	public static void main(String[] args) 
+	{
+		float double pi=3.142;
+		int r=5;
+		int circle=pi*r*r;
+		System.out.println("Area of circle is "+circle);
+	}
+}

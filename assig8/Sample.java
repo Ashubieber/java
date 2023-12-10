@@ -1,0 +1,18 @@
+class Sample 
+{
+	 static Double sector() 
+	{
+		 int a = 20;
+		 int b = 51;
+		 final Double pi=3.145;
+		System.out.println(area);
+	}
+}
+       class test
+       {
+		   public static void main(String[] args);
+       
+		   
+			Sample.sector();
+	   }
+
