@@ -1,0 +1,13 @@
+class customer9 
+{
+	public static void main(String[] args) 
+	{
+		String home_name=("Om Shanti Complex");
+		int home_cost= 987549874897;
+		String home_colour=(" Brownd and white");
+
+		System.out.println("Gita Home name is " + home_name);
+		System.out.println("Gita Home cost is " + home_cost);
+		System.out.println("Gita Home colour is " + home_colour);
+	}
+}

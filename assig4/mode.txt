@@ -1,0 +1,13 @@
+class mode
+{
+   int a = 69;
+   int b = 9;
+   int c = a+b;
+ static int main()
+    
+}
+  public static void main(String[] args)
+
+{
+      add();
+}

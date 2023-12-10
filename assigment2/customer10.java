@@ -1,0 +1,13 @@
+class customer10
+{
+	public static void main(String[] args) 
+	{
+		int emp_id=872892;
+		String emp_sal=("33454789");
+		String emp_grade=("aaddss");
+
+		System.out.println("Employee id is " + emp_id);
+		System.out.println("Employee  Salary  is " + emp_sal);
+		System.out.println("Employee Grade  is " + emp_grade);
+	}
+}

@@ -1,0 +1,13 @@
+class mobile
+{
+	static int mobile_cost =90000;
+	static String mobile_colour =("black");
+	static String mobile_brand =("Samsung");
+
+	public static void main(String[] args)
+	{
+		System.out.Println("Customer Mobile cost is"+ mobile_cost);
+		System.out.Println("Customer mobile colour is "+ mobile_colour);
+		System.out.Println("Customer Mobile Brand is " +  mobile_brand);
+	}
+}
