@@ -1,0 +1,20 @@
+class Coor 
+{
+	int course_cost;
+	String course_name;
+	String univ_name;
+	Coor(int a, String b, String c)
+	{
+		course_cost=a;
+		course_name=b;
+		univ_name=c;
+	}
+
+	public static void main(String[] args) 
+	{
+		Coor course= new Coor(150000,"Full stack Development","Q-spider");
+		System.out.println(course.course_cost);
+		System.out.println(course.course_name);
+		System.out.println(course.univ_name);
+	}
+}

@@ -1,0 +1,12 @@
+class mob
+{
+	 static int mobile_cost=115000;
+	 String mob_modle ="Iphone";
+	 String mob_color ="Black";
+	public static void main(String[] args) 
+	{
+		System.out.println(mob_cost);
+		System.out.println(mob_modle);
+		System.out.println(mob_color);
+	}
+}

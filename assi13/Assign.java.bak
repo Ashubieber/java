@@ -1,0 +1,12 @@
+class Assign {
+    static String mod_name = "Samsung";
+    int mob_cost = 550000;
+    String mob_color = "Starlight";
+
+    public static void main(String[] args) {
+        System.out.println(mod_name);
+        System.out.println(mob_color);
+        System.out.println(mob_cost);
+    }
+    
+}

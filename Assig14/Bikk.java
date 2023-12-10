@@ -1,0 +1,20 @@
+class Bikk 
+{
+	int bike_cost;
+	String bike_color;
+	String bike_brand;
+	Bikk(int a, String b, String c)
+	{
+		bike_cost=a;
+		bike_color=b;
+		bike_brand=c;
+	}
+
+	public static void main(String[] args) 
+	{
+		Bikk bike= new Bikk(1500000,"white&blue","Audi");
+		System.out.println(bike.bike_cost);
+		System.out.println(bike.bike_color);
+		System.out.println(bike.bike_brand);
+	}
+}

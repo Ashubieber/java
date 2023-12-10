@@ -1,0 +1,12 @@
+class car
+{
+	 int car_cost =11500;
+	  String car_modle =("Iphone");
+	 String car_type =("petrol");
+	public static void main(String[] args) 
+	{
+		System.out.println( car_cost);
+		System.out.println( car_modle);
+		System.out.println( car_type);
+	}
+}

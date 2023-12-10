@@ -1,0 +1,20 @@
+class Mob 
+{
+	int mob_cost;
+	String mob_color;
+	String mod_name;
+	Mob(int a, String b, String c)
+	{
+		mob_cost=a;
+		mob_color=b;
+		mob_name=c;
+	}
+
+	public static void main(String[] args) 
+	{
+		Mob mob= new Mob(1500000,"Golden","Iphone 14 pro max");
+		System.out.println(mob.mob_cost);
+		System.out.println(mob.mob_color);
+		System.out.println(mob.mob_name);
+	}
+}
