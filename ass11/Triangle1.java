@@ -1,0 +1,13 @@
+class Triangle {
+    void tri(int w, int h)
+    {
+       int result = w * h;
+        System.out.println(result);
+    }
+
+    public static void main(String[] args) {
+        Triangle c1 = new Triangle();
+        c1.tri(5, 03);
+
+    }
+}
